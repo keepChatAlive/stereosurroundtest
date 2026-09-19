@@ -1,0 +1,8 @@
+/.toolchain/
+/build*/
+*.exe
+*.dll
+*.a
+*.obj
+*.map
+*.zip
